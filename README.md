@@ -190,3 +190,7 @@ S3-IT15
    Congrats! Flag: JARKOM2024{s3m4ng4t_ya_<3_Ih8lvb9tQzFelAq}
 
 10 . MALWAEW
+   
+   ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/365af030-ac54-42fd-859e-289e5069166e)
+
+   Kahabisan waktu dan kurang mengerti bagaimana cara decrypt TLS saat di cek di preference sudah ada file nya dan jika isi yang satunya crash langsung wireshark.
