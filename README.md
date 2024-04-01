@@ -50,7 +50,7 @@ S3-IT15
   
 3. HOW MANY PACKETS
   cara dapatkan key: <br>
-  - Based on perhitungan bruteforce ynag banyak tiap percobaan <br>
+  - Based on perhitungan bruteforce ynag banyak tiap percobaan (14 + 3 + 8 + 303(3)) <br>
   - stream sampai stream 319 <br>
   - pakai filter: frame contains "530 Login incorrect"
 
