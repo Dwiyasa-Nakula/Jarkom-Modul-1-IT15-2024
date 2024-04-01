@@ -138,6 +138,8 @@ S3-IT15
 
    ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/345cfb42-d985-4825-93c3-e9f39ab00c58)
    ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/a743a160-0ad9-48b7-bf42-73aa0664a2fb)
+   ![mirza](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/104546173/c2dc6317-b2be-4026-9857-bb9c2d70dfa8)
+   
 
    No 10: <br>
    Pertanyaan: Ternyata attacker menyisipkan file lainnya selain dari file malware, temukan pesan yg dikutip oleh attacker? <br>
@@ -146,7 +148,7 @@ S3-IT15
 
    Congrats! Flag: JARKOM2024{l0_Blm_tW_MIO_MIRZA?_9hw8vcpjy1FsC8q} <br>
 
-9. FUZZ
+10. FUZZ
    cara dapatkan key: <br>
    - lihat source/destination IP attacker
    - cari Transmition Control Protocol Destination port untuk web server korban
