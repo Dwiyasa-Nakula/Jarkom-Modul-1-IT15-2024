@@ -125,10 +125,10 @@ S3-IT15
    ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/d6e477ec-d7c6-4b11-a801-ef9ba475dfe5)
    ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/037039ae-81b7-4499-83c2-7bab8053c057)
 
-   No 9:
-   Pertanyaan: Siapa nama attacker yang sudah melakukan serangan ini?
-   Jawaban: Paul_Atreides
-   Correct
+   No 9: <br>
+   Pertanyaan: Siapa nama attacker yang sudah melakukan serangan ini? <br>
+   Jawaban: Paul_Atreides <br>
+   Correct <br>
 
    Congrats! Flag: JARKOM2024{Duk3_0f_4rak!s_LISAN AL GHAIB!_cT8CYO9tlRJekrq}
 
