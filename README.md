@@ -6,10 +6,10 @@ S3-IT15
 | 5027221001 | Dwiyasa Nakula |
 | 5027221005 | Bhisma Elki Pratama |
 
-1. Evidence
-   cara dapatkan key:
-   FILTER BASED ON HTML (WEB basic php)
-   stream 1240
+1. Evidence <br>
+   cara dapatkan key: <br>
+   - FILTER BASED ON HTML (WEB basic php) <br>
+   - stream 1240 <br>
    ![WireShark Evidence](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/29ac8c98-e413-442a-96ed-3ee2ddb6fc07)
    ![Soal 1 Evidence](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/8bf93d28-ad3f-4c2a-8c4f-b52984878fe4)
    ![Soal 2-3 Evidence](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/94c48a96-2fe7-4fd5-a0b3-a0afc20b09b9)
