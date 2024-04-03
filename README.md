@@ -137,6 +137,7 @@ S3-IT15
    - Cari STOR lainnya yang dikirim ada Mirza.jpg
 
    ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/345cfb42-d985-4825-93c3-e9f39ab00c58)
+   ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/b452164a-1651-4e0a-96d4-e65aed6be0dd)
    ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/a743a160-0ad9-48b7-bf42-73aa0664a2fb)
    ![mirza](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/104546173/c2dc6317-b2be-4026-9857-bb9c2d70dfa8)
    
