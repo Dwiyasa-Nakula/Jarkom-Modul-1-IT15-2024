@@ -193,7 +193,27 @@ S3-IT15
    Congrats! Flag: JARKOM2024{s3m4ng4t_ya_<3_Ih8lvb9tQzFelAq}
 
 10 . MALWAEW
-   
-   ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/365af030-ac54-42fd-859e-289e5069166e)
+   Cara Mendapatkannya:
+   - Masukan file Keylog di Prefrence -> Protocol -> TLS -> Pre-Master-secreat log filename.
+   - menggunakan filter http, dan cari sebuah file Malware (Network traffic berikut mengandung malware asli).
+   - Terdapat 1 file dengan ekstensi .dll yang dimana merupakan executable file.
+   - Download file tersebut di Linux (Windows akan block download tersebut)
+   - decrypt file tersebut menggunakan SHA256
 
-   Kahabisan waktu dan kurang mengerti bagaimana cara decrypt TLS saat di cek di preference sudah ada file nya dan jika isi yang satunya crash langsung wireshark.
+   ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/365af030-ac54-42fd-859e-289e5069166e)
+   ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/7043c893-ccf2-49d3-9c3a-7301facaab45)
+   ![image](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/47eb7034-c96c-4259-bbaf-53a74214f80d)
+   ![WhatsApp Image 2024-04-03 at 15 33 45_0c99e8ec](https://github.com/Dwiyasa-Nakula/Jarkom-Modul-1-IT15-2024/assets/115543100/c398d798-5d4d-4594-bb7c-39341f514861)
+
+   Jawab pertanyaan-pertanyaan yang telah disediakan:
+
+   No 1: <br>
+   Pertanyaan: Apa SHA-256 hash dari malware yang dimaksud? <br>
+   Format: sha256 hash: e.g. c8cf761b68c5f693e5cf2d23acdcca1c0295c1f739805d60df46e54e37ada3da <br>
+   Jawaban: 31cf42b2a7c5c558f44cfc67684cc344c17d4946d3a1e0b2cecb8eb58173cb2f <br>
+   Correct <br>
+
+   Congrats! Flag: JARKOM2024{wow_how_u_solve_this_cJCRv7njlAdsk89} <br>
+
+   
+
